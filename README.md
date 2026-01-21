@@ -51,9 +51,9 @@ The project follows a **graph-based execution model**:
 ---
 
 ## 📂 Project Structure
-── notebook.ipynb # Main LangGraph workflow
-├── README.md # Project documentation
-└── requirements.txt # Dependencies
+- ── notebook.ipynb # Main LangGraph workflow
+- ├── README.md # Project documentation
+- └── requirements.txt # Dependencies
 
 
 ---
